@@ -1,0 +1,48 @@
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>Popular Destination</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .destination-card:hover .image {
+            transform: scale(1.1);
+            filter: brightness(1.2);
+        }
+        .destination-card:hover .overlay {
+            opacity: 10;
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+    <div class="container mx-auto p-4">
+        <h1 class="text-3xl font-bold text-center mb-6">Popular Destination</h1>
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div class="relative destination-card overflow-hidden rounded-lg shadow-lg">
+                <img alt="A woman on a bicycle on a boardwalk over water with overwater bungalows in the background" class="image w-full h-auto transform transition-transform duration-500" src="https://storage.googleapis.com/a1aa/image/2oTNgKFmPWJ1CFAmLYTQfyEMiBpjCl3q0Zfu5mtE9H5rBqIUA.jpg"/>
+                <div class="absolute inset-0 bg-black bg-opacity-50 flex flex-col justify-between p-4 opacity-0 transition-opacity duration-500 overlay">
+                    <div class="bg-red-500 text-white px-2 py-1 text-sm w-max">30% OFF</div>
+                    <div class="bg-white text-gray-800 px-2 py-1 text-sm w-max">Thailand</div>
+                </div>
+            </div>
+            <div class="relative destination-card overflow-hidden rounded-lg shadow-lg">
+                <img alt="A temple by the water with a woman sitting on the edge" class="image w-full h-auto transform transition-transform duration-500" src="https://storage.googleapis.com/a1aa/image/6cp217wbhJ4hFJFO6KlxskKHAsA8McBLjPqFv9whsATagKCF.jpg"/>
+                <div class="absolute inset-0 bg-black bg-opacity-50 flex flex-col justify-between p-4 opacity-0 transition-opacity duration-500 overlay">
+                    <div class="bg-red-500 text-white px-2 py-1 text-sm w-max">20% OFF</div>
+                    <div class="bg-white text-gray-800 px-2 py-1 text-sm w-max">Indonesia</div>
+                </div>
+            </div>
+                       <div class="relative destination-card overflow-hidden rounded-lg shadow-lg">
+                <img alt="A beach with mountains in the background" class="image w-full h-auto transform transition-transform duration-500" src="https://storage.googleapis.com/a1aa/image/5tTbgmbSfDQbfEPOkgWHPGH1eaVNqQGvD7OsqWPCjxMPDURoA.jpg"/>
+                <div class="absolute inset-0 bg-black bg-opacity-50 flex flex-col justify-between p-4 opacity-0 transition-opacity duration-500 overlay">
+                    <div class="bg-red-500 text-white px-2 py-1 text-sm w-max">35% OFF</div>
+                    <div class="bg-white text-gray-800 px-2 py-1 text-sm w-max">Australia</div>
+                </div>
+            </div>
+        </div>
+        <div class="text-center mt-6">
+            <button class="bg-olive-600 text-white px-4 py-2 rounded-lg hover:bg-olive-700 transition-colors duration-300">Explore More</button>
+        </div>
+    </div>
+</body>
+</html>
