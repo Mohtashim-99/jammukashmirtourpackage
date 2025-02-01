@@ -80,7 +80,7 @@
                
                 
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-4 ps-md-5">
                 <div class="sticky-top" style="top: 6rem;">
                     <div class="mb-4">
                         <h2 class="h5 fw-medium mb-3">
