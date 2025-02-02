@@ -41,7 +41,7 @@ const navbarHTML = `<nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-
                             data-bs-target="#navbarCollapse"><span class="fa fa-bars"></span></button>
                         <div class="collapse navbar-collapse" id="navbarCollapse">
                             <div class="navbar-nav ms-auto py-0">
-                                <a href="/" class="nav-item nav-link active">Home</a>
+                                <a href="/" class="nav-item nav-link">Home</a>
                                 <a href="/destination.php" class="nav-item nav-link">Destinations</a>
                                 <a href="/packages/" class="nav-item nav-link">Tour packages</a>
                                 <a href="/blogs/" class="nav-item nav-link">Blogs</a>
