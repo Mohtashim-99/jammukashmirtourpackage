@@ -1,37 +1,10 @@
 const topHeaderHTML = ` <div class="container-fluid bg-dark px-5 d-none d-lg-block">
-            <div class="row gx-0">
-                <div class="col-lg-8 text-center text-lg-start mb-2 mb-lg-0">
-                    <!-- Adress packages -->
-                    <div class="d-inline-flex align-items-center" style="height:45px;">
-                        <!-- <small class="me-3 text-light"><i
-                            class="fa fa-map-marker-alt me-2"></i>123 Street, New York, USA</small> <small
-                        class="me-3 text-light"><i class="fa fa-phone-alt me-2"></i>+012 345 6789</small> <small
-                        class="text-light"><i class="fa fa-envelope-open me-2"></i>mail@domain.com</small> -->
-                        <small>Adress info here</small>
-                    </div>
-                </div>
-                <div class="col-lg-4 text-center text-lg-end">
-                    <div class="d-inline-flex align-items-center" style="height:45px;">
-                            <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-                            href="">
-                                <i class="fab fa-twitter fw-normal"></i>
-                            </a>
-                            <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-                            href="">
-                                <i class="fab fa-facebook-f fw-normal"></i>
-                            </a> 
-                            <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-                            href="">
-                                <i class="fab fa-instagram fw-normal"></i>
-                            </a> 
-                            <a class="btn btn-sm btn-outline-light btn-sm-square rounded-circle"
-                            href="">
-                                <i class="fab fa-youtube fw-normal"></i>
-                            </a>
-                    </div>
-                </div>
-            </div>
-        </div>`;
+                            <div class="row ">
+                                <div class="d-inline-flex align-items-center container" style="height:45px;">
+                                    <marquee behavior="scroll" direction="">Discount 15% on all packages </marquee> 
+                                </div>  
+                            </div>
+                        </div>`;
 
 const navbarHTML = `<nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                         <a href="" class="navbar-brand p-0">
