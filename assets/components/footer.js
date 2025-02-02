@@ -6,7 +6,7 @@ const footerHTML = `<div class="container-fluid bg-dark text-light footer pt-5 m
                         <a class="btn btn-link" href="/about.php">About Us</a> <a
                             class="btn btn-link" href="/contact.php">Contact Us</a> <a
                             class="btn btn-link" href="/privacy-policy.php">Privacy Policy</a>
-                        <a class="btn btn-link" href=/terms-and-conditions.php">Terms &amp;
+                        <a class="btn btn-link" href="/terms-and-conditions.php">Terms &amp;
                             Condition</a>
                     </div>
                     <div class="col-lg-4 col-md-6">
