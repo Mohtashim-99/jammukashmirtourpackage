@@ -402,19 +402,19 @@ include ("app/controllers/lead_form.php");
                         <div class="overflow-hidden">
                             <img class="ratio ratio-16x9 object-fit-cover card-img-top" style="aspect-ratio:16/9;"
                                 alt="Blog image"
-                                src="https://t4.ftcdn.net/jpg/02/57/75/51/360_F_257755130_JgTlcqTFxabsIKgIYLAhOFEFYmNgwyJ6.jpg" />
+                                src="assets/img/markhor.webp" />
                         </div>
                         <div class="card-body p-4 ">
                             <h6 class="card-subtitles text-muted fw-bold">
-                            James Watson
+                            Khalid zahoor
                             </h6>
                             <h5 class="card-title mb-2 text-truncate fw-bold">
-                            Take only memories, leave only footprints
+                            The Markhor in Kashmir: Ecology, Conservation, and Cultural Significance
                             </h5>
                             <p class="card-text line-clamp-3">
-                              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla laborum vitae voluptas autem aut eaque itaque, repellat rem quos, aperiam numquam reiciendis voluptatum quod quis neque et fuga adipisci enim.
+                            The Kashmir markhor ( Capra falconeri ), a majestic wild goat species, is native to the mountainous regions of Kashmir and northern Pakistan. Recognizable by its spiraled horns and rugged appearance, it inhabits steep, rocky terrains of the Himalayas and Hindu Kush ranges. The species is classified as Near Threatened on the IUCN Red List, with populations fragmented due to habitat loss, poaching, and competition with livestock.
                             </p>
-                            <a class="card-link text-primary" href="#">
+                            <a class="card-link text-primary" href="blogs/markhor-in-kashmir.php">
                                 Continue Reading...
                             </a>
                         </div>
