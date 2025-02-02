@@ -138,16 +138,16 @@
                     <div>
                         <div class="d-flex gap-3 align-items-center">
                             <a class="btn btn-sm btn-outline-dark btn-sm-square rounded-circle me-2"
-                            href="https://twitter.com/khalidzahoor" target="_blank">
+                            href="https://x.com/thexkhalid79" target="_blank">
                                 <i class="fab fa-twitter fw-normal"></i>
                             </a>
                             <a class="btn btn-sm btn-outline-dark btn-sm-square rounded-circle me-2"
-                            href="https://facebook.com/khalidzahoor" target="_blank">
+                            href="https://www.facebook.com/jio.sim.94009" target="_blank">
                                 <i class="fab fa-facebook-f fw-normal"></i>
                             </a> 
                             <a class="btn btn-sm btn-outline-dark btn-sm-square rounded-circle me-2"
-                            href="https://linkedin.com/in/khalidzahoor" target="_blank">
-                                <i class="fab fa-linkedin fw-normal"></i>
+                            href="https://www.instagram.com/khalid__zahoor" target="_blank">
+                                <i class="fab fa-instagram fw-normal"></i>
                             </a> 
                         </div>
                     </div>
