@@ -11,9 +11,9 @@ const footerHTML = `<div class="container-fluid bg-dark text-light footer pt-5 m
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <h4 class="text-white mb-3">Contact</h4>
-                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
-                        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
-                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>mail@domain.com</p>
+                        <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>SDA Complex, Bemina, Srinagar, Jammu & Kashmir 190018</p>
+                        <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+91 9622007771</p>
+                        <p class="mb-2"><i class="fa fa-envelope me-3"></i>tripcoretravels@gmail.com</p>
                         <div class="d-flex pt-2"><a class="btn btn-outline-light btn-social"
                                 href=""><i class="fab fa-twitter"></i></a> <a
                                 class="btn btn-outline-light btn-social"
