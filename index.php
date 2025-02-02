@@ -110,25 +110,31 @@ include ("app/controllers/lead_form.php");
 
     <section class="container-xxl py-5">
         <div class="container">
-            <div class="text-center mb-5">
-                <h6 class="section-title bg-white text-center text-primary px-3">
-                    Packages
-                </h6>
-                <h2>Kashmir Tour Package</h2>
+            <div class="text-center mb-4">
+                <h4>Welcome to Our Website-Your Gateway to Incredible Experiences!” </h4>
             </div>
             <div>
-                <p>
-                    Welcome to KashmirHills, where we provide customized Jammu & Kashmir
-                    tour packages to our customers with exciting offers and deals. Over
-                    the last 20 years we have established ourselves as a professional,
-                    service oriented and cost effective Travel & Tour Operator of Jammu,
-                    Kashmir & Ladakh. We organize Jammu & Kashmir holiday packages for
-                    honeymooners, pilgrimage, family tours, group tours, conferences,
-                    and incentive tours. Special tour arrangements for people want to
-                    explore Kashmir tour packages from Mumbai , Pune, Kerala, Delhi,
-                    Chennai.…
+                <p class="mb-5">
+                We are expert in creating amazing tours and our Jammu and Kashmir tour packages have kayaked gigantic deals into your lap. For the last 12 years, we have tasted the fruit of perseverance and determination in building cordial relations with travelers and turned them into customized experiences par excellence. From Jammu to Kashmir to Ladakh, we at TripCore make the extraordinary a reality for every adventure traveler composite. 
                 </p>
             </div>
+            <div class="text-center mb-4">
+                <h4>“Foundation Based on Trust for Over a Decade” </h4>
+            </div>
+            <div>
+                <p class="mb-5">  
+                With more than ten years of observation under our belts, we’ve constantly improved our services to what can only be the best. Everything that can be arranged has been arranged without a single hitch. Our ties and first-hand experience allow us to provide you with exciting deals that would make your journey through Jammu/Kashmir/Ladakh even more exciting. Join the ranks of many eyes opened by our impeccable service-given and let us walk you through the Narrows of these magnificent destinations. 
+                </p>
+            </div>
+            <div class="text-center mb-4">
+                <h4>“Travel to the Unexplored Beauty of Jammu, Kashmir, and Ladakh”</h4>
+            </div>
+            <div>
+                <p class="mb-5">
+                Explore the looming tops of snowy peaks in Kashmir, the private landscapes of Ladakh, and the culture of Jammu. At TripCore, we could tailor your needs into exceptional memories-whether it be adventure, peace, or a combination of both. Our exquisite travel experts, tailor-made itineraries, and pocket-friendly packages make every journey a smooth experience devoid of bumps. We explain to our clients what makes them come back time and time again! 
+                </p>
+            </div>
+           
         </div>
     </section>
     <section class="container-xxl py-5 destination">
