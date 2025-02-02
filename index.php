@@ -102,7 +102,7 @@ include ("app/controllers/lead_form.php");
                 <h6 class="section-title bg-white text-center text-primary px-3">
                     Packages
                 </h6>
-                <h1>Kashmir Tour Package</h1>
+                <h2>Kashmir Tour Package</h2>
             </div>
             <div>
                 <p>
@@ -125,7 +125,7 @@ include ("app/controllers/lead_form.php");
                 <h6 class="section-title bg-white text-center text-primary px-3">
                     Destination
                 </h6>
-                <h1>Popular Destination</h1>
+                <h2>Popular Destination</h2>
             </div>
         </div>
         <div class="row g-3">
@@ -174,7 +174,7 @@ include ("app/controllers/lead_form.php");
                 <h6 class="section-title bg-white text-center text-primary px-3">
                     Packages
                 </h6>
-                <h1 class="mb-5 fw-semibold">Kashmir tour package</h1>
+                <h2 class="mb-5 fw-semibold">Kashmir tour package</h2>
             </div>
             <div class="row g-4 justify-content-center Kashmir-tour-package-div">
                 <!-- <div class="col-lg-4 col-md-6 ">
@@ -353,7 +353,7 @@ include ("app/controllers/lead_form.php");
                 <h6 class="section-title bg-white text-center text-primary px-3">
                     FROM OUR BLOG
                 </h6>
-                <h1 class="mb-5">OUR RECENT POSTS</h1>
+                <h2 class="mb-5">OUR RECENT POSTS</h2>
             </div>
             <div class="row row-cols-1 row-cols-md-3 g-4">
                 <div class="col">
@@ -361,19 +361,19 @@ include ("app/controllers/lead_form.php");
                         <div class="overflow-hidden">
                             <img class="ratio ratio-16x9 object-fit-cover card-img-top" style="aspect-ratio:16/9;"
                                 alt="Blog image"
-                                src="https://media.istockphoto.com/id/493283252/photo/city-embankment-at-night-with-illumination.jpg?s=612x612&w=0&k=20&c=9f1v2eBP4l5DQGWkLS-2DQiO4dgInJ9lCuFydASOEXY=" />
+                                src="assets/img/gulamrg.jpg" />
                         </div>
                         <div class="card-body p-4 ">
                             <h6 class="card-subtitles text-muted fw-bold">
                                 Mohtashim anayat
                             </h6>
                             <h5 class="card-title mb-2 text-truncate fw-bold">
-                            Journeys are best measured in new friends
+                            Gulmarg in Winters: A Snowy Paradise
                             </h5>
                             <p class="card-text line-clamp-3">
-                               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, magnam. Provident magnam neque, necessitatibus repellat quasi excepturi, pariatur, tenetur cum eius nihil ad. Officiis inventore perspiciatis, vel incidunt mollitia et.
+                            Gulmarg, nestled in the Pir Panjal range of Jammu and Kashmir, transforms into a mesmerizing winter wonderland as the snow blankets its landscapes. Known as India's premier ski destination, Gulmarg offers a breathtaking experience for adventure seekers and nature lovers alike.  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum maiores totam, quaerat cumque explicabo nisi provident necessitatibus, ratione quo unde ab excepturi possimus vel cupiditate quae dolorum tempora molestiae laborum?
                             </p>
-                            <a class="card-link text-primary" href="#">
+                            <a class="card-link text-primary" href="blogs/gulmarg-in-winters.php">
                                 Continue Reading...
                             </a>
                         </div>
@@ -417,9 +417,9 @@ include ("app/controllers/lead_form.php");
                             Life is a beautiful journey not a destination
                             </h5>
                             <p class="card-text line-clamp-3">
-                               Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum maiores totam, quaerat cumque explicabo nisi provident necessitatibus, ratione quo unde ab excepturi possimus vel cupiditate quae dolorum tempora molestiae laborum?
+               Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, pariatur? A id, officiis sapiente quisquam eum perspiciatis rem molestiae nisi at odio harum nesciunt ipsam possimus perferendis ex accusamus ad! dsfkjds fkjdfkldjfk ld
                             </p>
-                            <a class="card-link text-primary" href="#">
+                            <a class="card-link text-primary" href="blogs/gulmarg-in-winters.php">
                                 Continue Reading...
                             </a>
                         </div>
@@ -435,7 +435,7 @@ include ("app/controllers/lead_form.php");
                 <h6 class="section-title bg-white text-center text-primary px-3">
                     Faq
                 </h6>
-                <h1>FREQUENTLY ASKED QUESTIONS</h1>
+                <h2>FREQUENTLY ASKED QUESTIONS</h2>
             </div>
             <div class="faq-div"></div>
         </div>
@@ -444,10 +444,10 @@ include ("app/controllers/lead_form.php");
     <footer></footer>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"></script>
-    <script type="module" src="assets/js/main.js"></script>
-    <script src="assets/components/header.js"></script>
-    <script src="assets/components/footer.js"></script>
-    <script src="assets/js/header.js"></script>
+    <script type="module" src="/assets/js/main.js"></script>
+    <script src="/assets/components/header.js"></script>
+    <script src="/assets/components/footer.js"></script>
+    <script src="/assets/js/header.js"></script>
 
 </body>
 
