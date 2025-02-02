@@ -82,7 +82,7 @@ export const packagesData = {
       {
         "package_id": "102",
         "package_name": "Beautiful Kashmir in Winters",
-        "page_name": "packages\kashmir-3-nights-itinerary.html",
+        "page_name": "kashmir-3-nights-itinerary.html",
         "original_price": "16799",
         "current_price": "13999.00",
         "off": "16.67",
