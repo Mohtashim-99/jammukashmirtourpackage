@@ -16,7 +16,7 @@
     <script>
     document.addEventListener("DOMContentLoaded", function () {
         let navLinks = document.querySelectorAll(".navbar-nav .nav-link");
-        let activePage = "Contact; // Change this for each page
+        let activePage = "Contact"; // Change this for each page
         navLinks.forEach(link => {
             link.classList.remove("active"); // Remove active class from all links
             if (link.textContent.trim() === activePage) {
