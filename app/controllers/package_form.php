@@ -16,6 +16,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['package-enquiry-btn']
     $rooms = htmlspecialchars($_POST['rooms']);
     $location = htmlspecialchars($_POST['location']);
 
+    $newPackagePage="https://jammukashmirtourpackage.com/packages/$packagePage";
     // Email content
     $emailBody = "
         <h2>Package Enquiry Details</h2>
@@ -26,7 +27,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['package-enquiry-btn']
         <p><strong>Current Location:</strong> $location</p>
         <p><strong>Package ID:</strong> $packageId</p>
         <p><strong>Package Name:</strong> $packageName</p>
-        <p><strong>Package Page:</strong> $packagePage</p>
+        <p><strong>Package Page:</strong> $newPackagePage</p>
     ";
 
     // Create a new PHPMailer instance
