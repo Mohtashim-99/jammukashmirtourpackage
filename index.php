@@ -3,10 +3,6 @@ include ("app/controllers/package_form.php");
 include ("app/controllers/lead_form.php");
 ?>
 
-
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 

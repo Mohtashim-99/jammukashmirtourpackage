@@ -1,5 +1,6 @@
 
 <?php
+include ("../app/controllers/lead_form.php");
 include ("../app/controllers/package_form.php");
 ?>
 <!doctype html>
