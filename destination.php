@@ -82,7 +82,7 @@
         <div class="container">
             <div class="text-center ">
                 <h6 class="section-title bg-white text-center text-primary px-3">Destinations</h6>
-                <h1 class="mb-5">Popular destinations</h1>
+                <h2 class="mb-5">Popular destinations</h2>
             </div>
             <div class="row g-4">
                 <div class="col-md-6">
