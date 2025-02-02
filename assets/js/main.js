@@ -72,7 +72,7 @@ const showpackageDetails = (element, category) => {
                             <p class="package-desc">${overviewText}
                                 kljdas f dsm,fnmds f,msd f,mds fm,dsm,fnf</p>
                             <div class="d-flex justify-content-between mb-2">
-                                <a href="${data.page_name}" class="btn btn-sm btn-outline-primary px-3 rounded-pill">Read More</a>
+                                <a href="packages/${data.page_name}" class="btn btn-sm btn-outline-primary px-3 rounded-pill">Read More</a>
                             <button  class="btn btn-sm btn-primary px-3 rounded-pill package-btn"
                                 data-package-id="${data.package_id}"
                                 data-package-name="${data.package_name}"  
