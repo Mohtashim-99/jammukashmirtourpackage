@@ -49,7 +49,7 @@ const navbarHTML = `<nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-
                                 <a href="/contact.php" class="nav-item nav-link">Contact</a>
                             </div>
                             <a href=""
-                                class="btn btn-primary rounded-pill py-2 px-4 header-btn"  data-bs-toggle="modal" data-bs-target="#travelFormModal">Register</a>
+                                class="btn btn-primary rounded-pill py-2 px-4 header-btn"  data-bs-toggle="modal" data-bs-target="#travelFormModal">Get Quote</a>
                         </div>
                     </nav>
                     
