@@ -1,6 +1,7 @@
 <?php
 // Include Composer's autoloader
 require ($_SERVER['DOCUMENT_ROOT'] . '/app/vendor/autoload.php');
+require_once  ($_SERVER['DOCUMENT_ROOT'] . '/app/config.php');
 
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
