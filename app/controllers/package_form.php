@@ -37,16 +37,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['package-enquiry-btn']
     try {
         // SMTP configuration
         $mail->isSMTP();
-        $mail->Host = 'sh004.hostgator.in'; 
+        $mail->Host = MAIL_HOST; 
         $mail->SMTPAuth = true;
-        $mail->Username = 'noreply@tripcore.in';// email address
-        $mail->Password = 'Srinagar@1234'; 
+        $mail->Username = MAIL_USERNAME;// email address
+        $mail->Password = MAIL_PASSWORD; 
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS; //  SSL encryption
-        $mail->Port = 465;
+        $mail->Port = MAIL_PORT;
 
         // Email settings
-        $mail->setFrom('noreply@tripcore.in', 'Kashmir tour package');
-        $mail->addAddress('mohtashimanayat@gmail.com'); // Your email to receive the enquiries
+        $mail->setFrom(MAIL_USERNAME, 'Kashmir tour package');
+        $mail->addAddress(MAIL_RECEIVE); // Your email to receive the enquiries
         $mail->isHTML(true);
         $mail->Subject = 'New Package Enquiry - ' . uniqid();
         $mail->Body = $emailBody;
