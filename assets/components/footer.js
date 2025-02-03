@@ -43,15 +43,22 @@ const footerHTML = `<div class="container-fluid bg-dark text-light footer pt-5 m
             </div>
             <div class="container">
                 <div class="copyright">
-                    <div class="row">
-                        <div class="col-md-8 text-center text-md-start mb-3 mb-md-0">&copy; <a class="border-bottom"
-                                href="https://jammukashmirtourpackage.com/">jammukashmirtourpackage.com<a>, All Rights
-                            Reserved. Designed by <a class="border-bottom" href="https://mohtashimanayat.in">Khalid,</a>  developed by <a class="border-bottom" target="_blank" rel="nofollow noopener"
-                                href="https://mohtashimanayat.in">Mohtashim</a></div>
-                        <div class="col-md-4 text-center text-md-end">
-                            <div class="footer-menu"><a href="/">Home</a> <a
-                                    href="/about.php">About</a> <a
-                                    href="/contact.php">Contact</a> </div>
+                    <div class="row ">
+                        <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                            <div>
+                                &copy; 
+                                <a class="border-bottom" href="https://jammukashmirtourpackage.com/">jammukashmirtourpackage.com</a>, 
+                                All Rights Reserved.  
+                            </div>
+                        </div>
+                        <div class="col-md-6 text-center text-md-end">
+                            <div>
+                                Designed by 
+                                <a class="border-bottom" href="https://mohtashimanayat.in">Khalid,</a>  
+                                developed by 
+                                <a class="border-bottom" target="_blank" rel="nofollow noopener"
+                                href="https://mohtashimanayat.in">Mohtashim</a>
+                            </div>
                         </div>
                     </div>
                 </div>
