@@ -161,7 +161,7 @@ include ("app/controllers/lead_form.php");
                 </div>
                 <div class="col-md-6">
                     <div class="destination-card">
-                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  src="assets/img/sonmarg.webp" alt="Destination image">
+                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  src="assets/img/Sonmarg.webp" alt="Destination image">
                         <div class="destination-overlay">Sonmarg</div>
                     </div>
                 </div>
