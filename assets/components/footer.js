@@ -46,8 +46,8 @@ const footerHTML = `<div class="container-fluid bg-dark text-light footer pt-5 m
                     <div class="row">
                         <div class="col-md-8 text-center text-md-start mb-3 mb-md-0">&copy; <a class="border-bottom"
                                 href="https://jammukashmirtourpackage.com/">jammukashmirtourpackage.com<a>, All Rights
-                            Reserved. Designed by Khalid, developed by <a class="border-bottom" target="_blank" rel="nofollow noopener"
-                                href="//htmlcodex.com">Mohtashim</a></div>
+                            Reserved. Designed by <a class="border-bottom" href="https://mohtashimanayat.in">Khalid,</a>  developed by <a class="border-bottom" target="_blank" rel="nofollow noopener"
+                                href="https://mohtashimanayat.in">Mohtashim</a></div>
                         <div class="col-md-4 text-center text-md-end">
                             <div class="footer-menu"><a href="/">Home</a> <a
                                     href="/about.php">About</a> <a
