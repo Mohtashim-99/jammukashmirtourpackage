@@ -159,6 +159,18 @@ include ("app/controllers/lead_form.php");
                         <div class="destination-overlay">Clock tower</div>
                     </div>
                 </div>
+                <div class="col-md-6">
+                    <div class="destination-card">
+                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  src="assets/img/sonmarg.webp" alt="Destination image">
+                        <div class="destination-overlay">Sonmarg</div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="destination-card">
+                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  src="assets/img/gurez-valley.webp" alt="Destination image">
+                        <div class="destination-overlay">Gurez valley</div>
+                    </div>
+                </div>
              
             </div>
             
