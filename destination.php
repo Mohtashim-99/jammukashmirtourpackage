@@ -137,37 +137,37 @@ include ("app/controllers/lead_form.php");
             <div class="row g-4">
                 <div class="col-md-6">
                     <div class="destination-card">
-                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  style="aspect-ratio: 16/9 ; object-fit: cover;" src="assets/img/gulamrg.jpg" alt="Destination image">
+                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  style="aspect-ratio: 16/9 ; object-fit: cover;" src="assets/img/gulamrg.jpg" alt="Destination image" loading="lazy">
                         <div class="destination-overlay">Gulmarg</div>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="destination-card">
-                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  src="assets/img/boat-dull.avif" alt="Destination image">
+                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  src="assets/img/boat-dull.avif" alt="Destination image" loading="lazy">
                         <div class="destination-overlay">Dal lake</div>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="destination-card">
-                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  src="assets/img/pahalgam.jpg" alt="Destination 3">
+                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  src="assets/img/pahalgam.jpg" alt="Destination 3" loading="lazy">
                         <div class="destination-overlay">Pahalgam</div>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="destination-card">
-                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  src="assets/img/clock-tower-sri.jpg" alt="Destination image">
+                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  src="assets/img/clock-tower-sri.jpg" alt="Destination image" loading="lazy">
                         <div class="destination-overlay">Clock tower</div>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="destination-card">
-                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  src="assets/img/Sonmarg.webp" alt="Destination image">
+                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  src="assets/img/Sonmarg.webp" alt="Destination image" loading="lazy">
                         <div class="destination-overlay">Sonmarg</div>
                     </div>
                 </div>
                 <div class="col-md-6">
                     <div class="destination-card">
-                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  src="assets/img/gurez-valley.webp" alt="Destination image">
+                         <img style="aspect-ratio: 16/9 ; object-fit: cover;"  src="assets/img/gurez-valley.webp" alt="Destination image" loading="lazy">
                         <div class="destination-overlay">Gurez valley</div>
                     </div>
                 </div>
