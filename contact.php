@@ -124,7 +124,7 @@ include ("app/controllers/lead_form.php");
                 </div>
                 <div class="col-lg-4 col-md-6 ">
                     <iframe class="position-relative rounded w-100 h-100"
-                        src="//www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.2343483536256!2d74.76550571134545!3d34.089136515669146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e19b98175f860b%3A0x385c09dcd8530a47!2sTripCore!5e0!3m2!1sen!2sin!4v1738591570322!5m2!1sen!2sin"
                         frameborder="0" style="min-height:300px;border:0;" allowfullscreen aria-hidden="false"
                         tabindex="0"></iframe>
                 </div>
