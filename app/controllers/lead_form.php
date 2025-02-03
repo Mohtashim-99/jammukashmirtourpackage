@@ -50,9 +50,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['lead_form'])) {
         exit();
    
     } catch (Exception $e) {
-        echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
-        // header("Location: " . $_SERVER['PHP_SELF'] . "?error=true");
-        // exit();
+        // echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+        header("Location: " . $_SERVER['PHP_SELF'] . "?error=true");
+        exit();
     }
 }
 // Handle success or error message on GET request
