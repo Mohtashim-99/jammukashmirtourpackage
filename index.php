@@ -107,7 +107,7 @@ include ("app/controllers/lead_form.php");
     <section class="container-xxl py-5">
         <div class="container">
             <div class="text-center mb-4">
-                <h4>Welcome to Our Website-Your Gateway to Incredible Experiences!” </h4>
+                <h4>Welcome to Our Website-Your Gateway to Incredible </h4>
             </div>
             <div>
                 <p class="mb-5">
