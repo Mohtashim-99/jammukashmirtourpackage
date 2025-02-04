@@ -18,7 +18,7 @@ include ("app/controllers/lead_form.php");
     <link rel="stylesheet" href="/assets/css/bootstarp.min.css" />
     <link rel="stylesheet" href="/assets/css/style.css" />
     <script>
-    document.addEventListener("DOMContentLoaded", function () {
+    document.addEventListener("DOMContentLoaded", function() {
         let navLinks = document.querySelectorAll(".navbar-nav .nav-link");
         let activePage = "Home"; // Change this for each page
         navLinks.forEach(link => {
@@ -57,6 +57,10 @@ include ("app/controllers/lead_form.php");
 
     .card:hover .card-img-top {
         transform: scale(1.1);
+    }
+
+    .hero-line {
+        color: white;
     }
     </style>
 </head>
@@ -101,8 +105,19 @@ include ("app/controllers/lead_form.php");
     <header class="top-header-outer"></header>
     <div class="container-fluid position-relative p-0">
         <div class="navbar-outer position-relative"></div>
-        <div class="container-fluid py-5 hero-header mb-5"></div>
+        <div class="container-fluid py-5 hero-header mb-5">
+            <div class="row justify-content-center py-5 mt-4">
+                <div class="col-lg-10 pt-lg-5 mt-lg-5 text-center">
+                    <h1 class="display-3 text-white">Discover Kashmir’s Timeless Beauty</h1>
+                    <div class="mt-4">
+                        <button
+                        class="btn btn-primary rounded-pill py-2 px-4 header-btn"  data-bs-toggle="modal" data-bs-target="#travelFormModal">Get Quote</button>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
+
 
     <section class="container-xxl py-5">
         <div class="container">
@@ -111,15 +126,23 @@ include ("app/controllers/lead_form.php");
             </div>
             <div>
                 <p class="mb-5">
-                We are expert in creating amazing tours and our Jammu and Kashmir tour packages have kayaked gigantic deals into your lap. For the last 12 years, we have tasted the fruit of perseverance and determination in building cordial relations with travelers and turned them into customized experiences par excellence. From Jammu to Kashmir to Ladakh, we at TripCore make the extraordinary a reality for every adventure traveler composite. 
+                    We are expert in creating amazing tours and our Jammu and Kashmir tour packages have kayaked
+                    gigantic deals into your lap. For the last 12 years, we have tasted the fruit of perseverance and
+                    determination in building cordial relations with travelers and turned them into customized
+                    experiences par excellence. From Jammu to Kashmir to Ladakh, we at TripCore make the extraordinary a
+                    reality for every adventure traveler composite.
                 </p>
             </div>
             <div class="text-center mb-4">
                 <h4>“Foundation Based on Trust for Over a Decade” </h4>
             </div>
             <div>
-                <p class="mb-5">  
-                With more than ten years of observation under our belts, we’ve constantly improved our services to what can only be the best. Everything that can be arranged has been arranged without a single hitch. Our ties and first-hand experience allow us to provide you with exciting deals that would make your journey through Jammu/Kashmir/Ladakh even more exciting. Join the ranks of many eyes opened by our impeccable service-given and let us walk you through the Narrows of these magnificent destinations. 
+                <p class="mb-5">
+                    With more than ten years of observation under our belts, we’ve constantly improved our services to
+                    what can only be the best. Everything that can be arranged has been arranged without a single hitch.
+                    Our ties and first-hand experience allow us to provide you with exciting deals that would make your
+                    journey through Jammu/Kashmir/Ladakh even more exciting. Join the ranks of many eyes opened by our
+                    impeccable service-given and let us walk you through the Narrows of these magnificent destinations.
                 </p>
             </div>
             <div class="text-center mb-4">
@@ -127,10 +150,14 @@ include ("app/controllers/lead_form.php");
             </div>
             <div>
                 <p class="mb-5">
-                Explore the looming tops of snowy peaks in Kashmir, the private landscapes of Ladakh, and the culture of Jammu. At TripCore, we could tailor your needs into exceptional memories-whether it be adventure, peace, or a combination of both. Our exquisite travel experts, tailor-made itineraries, and pocket-friendly packages make every journey a smooth experience devoid of bumps. We explain to our clients what makes them come back time and time again! 
+                    Explore the looming tops of snowy peaks in Kashmir, the private landscapes of Ladakh, and the
+                    culture of Jammu. At TripCore, we could tailor your needs into exceptional memories-whether it be
+                    adventure, peace, or a combination of both. Our exquisite travel experts, tailor-made itineraries,
+                    and pocket-friendly packages make every journey a smooth experience devoid of bumps. We explain to
+                    our clients what makes them come back time and time again!
                 </p>
             </div>
-           
+
         </div>
     </section>
     <section class="container-xxl py-5 destination">
@@ -374,18 +401,23 @@ include ("app/controllers/lead_form.php");
                     <div class="card h-100 border-0 shadow-r-base hover-shadow transition-shadow duration-300 bg-white">
                         <div class="overflow-hidden">
                             <img class="ratio ratio-16x9 object-fit-cover card-img-top" style="aspect-ratio:16/9;"
-                                alt="Blog image"
-                                src="assets/img/gulamrg.jpg" />
+                                alt="Blog image" src="assets/img/gulamrg.jpg" />
                         </div>
                         <div class="card-body p-4 ">
                             <h6 class="card-subtitles text-muted fw-bold">
                                 Mohtashim anayat
                             </h6>
                             <h5 class="card-title mb-2 text-truncate fw-bold">
-                            Gulmarg in Winters: A Snowy Paradise
+                                Gulmarg in Winters: A Snowy Paradise
                             </h5>
                             <p class="card-text line-clamp-3">
-                            Gulmarg, nestled in the Pir Panjal range of Jammu and Kashmir, transforms into a mesmerizing winter wonderland as the snow blankets its landscapes. Known as India's premier ski destination, Gulmarg offers a breathtaking experience for adventure seekers and nature lovers alike.  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum maiores totam, quaerat cumque explicabo nisi provident necessitatibus, ratione quo unde ab excepturi possimus vel cupiditate quae dolorum tempora molestiae laborum?
+                                Gulmarg, nestled in the Pir Panjal range of Jammu and Kashmir, transforms into a
+                                mesmerizing winter wonderland as the snow blankets its landscapes. Known as India's
+                                premier ski destination, Gulmarg offers a breathtaking experience for adventure seekers
+                                and nature lovers alike. Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                                Voluptatum maiores totam, quaerat cumque explicabo nisi provident necessitatibus,
+                                ratione quo unde ab excepturi possimus vel cupiditate quae dolorum tempora molestiae
+                                laborum?
                             </p>
                             <a class="card-link text-primary" href="blogs/gulmarg-in-winters.php">
                                 Continue Reading...
@@ -397,18 +429,21 @@ include ("app/controllers/lead_form.php");
                     <div class="card h-100 border-0 shadow-r-base hover-shadow transition-shadow duration-300 bg-white">
                         <div class="overflow-hidden">
                             <img class="ratio ratio-16x9 object-fit-cover card-img-top" style="aspect-ratio:16/9;"
-                                alt="Blog image"
-                                src="assets/img/markhor.webp" />
+                                alt="Blog image" src="assets/img/markhor.webp" />
                         </div>
                         <div class="card-body p-4 ">
                             <h6 class="card-subtitles text-muted fw-bold">
-                            Khalid zahoor
+                                Khalid zahoor
                             </h6>
                             <h5 class="card-title mb-2 text-truncate fw-bold">
-                            The Markhor in Kashmir: Ecology, Conservation, and Cultural Significance
+                                The Markhor in Kashmir: Ecology, Conservation, and Cultural Significance
                             </h5>
                             <p class="card-text line-clamp-3">
-                            The Kashmir markhor ( Capra falconeri ), a majestic wild goat species, is native to the mountainous regions of Kashmir and northern Pakistan. Recognizable by its spiraled horns and rugged appearance, it inhabits steep, rocky terrains of the Himalayas and Hindu Kush ranges. The species is classified as Near Threatened on the IUCN Red List, with populations fragmented due to habitat loss, poaching, and competition with livestock.
+                                The Kashmir markhor ( Capra falconeri ), a majestic wild goat species, is native to the
+                                mountainous regions of Kashmir and northern Pakistan. Recognizable by its spiraled horns
+                                and rugged appearance, it inhabits steep, rocky terrains of the Himalayas and Hindu Kush
+                                ranges. The species is classified as Near Threatened on the IUCN Red List, with
+                                populations fragmented due to habitat loss, poaching, and competition with livestock.
                             </p>
                             <a class="card-link text-primary" href="blogs/markhor-in-kashmir.php">
                                 Continue Reading...
@@ -420,7 +455,7 @@ include ("app/controllers/lead_form.php");
                     <div class="card h-100 border-0 shadow-r-base hover-shadow transition-shadow duration-300 bg-white">
                         <div class="overflow-hidden">
                             <img class="ratio ratio-16x9 object-fit-cover card-img-top" style="aspect-ratio:16/9;"
-                                alt="Blog image" 
+                                alt="Blog image"
                                 src="https://images.unsplash.com/photo-1527668752968-14dc70a27c95?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3dpdHplcmxhbmR8ZW58MHx8MHx8fDA%3D" />
                         </div>
                         <div class="card-body p-4">
@@ -428,10 +463,12 @@ include ("app/controllers/lead_form.php");
                                 Khalid zahoor
                             </h6>
                             <h5 class="card-title mb-2 text-truncate fw-bold">
-                            Life is a beautiful journey not a destination
+                                Life is a beautiful journey not a destination
                             </h5>
                             <p class="card-text line-clamp-3">
-               Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, pariatur? A id, officiis sapiente quisquam eum perspiciatis rem molestiae nisi at odio harum nesciunt ipsam possimus perferendis ex accusamus ad! dsfkjds fkjdfkldjfk ld
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, pariatur? A id, officiis
+                                sapiente quisquam eum perspiciatis rem molestiae nisi at odio harum nesciunt ipsam
+                                possimus perferendis ex accusamus ad! dsfkjds fkjdfkldjfk ld
                             </p>
                             <a class="card-link text-primary" href="blogs/gulmarg-in-winters.php">
                                 Continue Reading...
@@ -456,6 +493,7 @@ include ("app/controllers/lead_form.php");
     </section>
 
     <footer></footer>
+
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"></script>
     <script type="module" src="/assets/js/main.js"></script>
