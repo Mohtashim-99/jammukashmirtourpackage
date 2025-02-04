@@ -118,7 +118,6 @@ include ("../app/controllers/lead_form.php");
                         <img src="/assets/img/gulamrg.jpg"
                             alt="Blog Image" class="img-fluid rounded-3 object-fit-cover" style="aspect-ratio: 16/9;">
                     </div>
-                </div>
             </div>
             <div class="d-flex mb-4  flex-column mb-6">
                 <!-- Text Content -->
