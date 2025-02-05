@@ -414,10 +414,7 @@ include ("app/controllers/lead_form.php");
                                 Gulmarg, nestled in the Pir Panjal range of Jammu and Kashmir, transforms into a
                                 mesmerizing winter wonderland as the snow blankets its landscapes. Known as India's
                                 premier ski destination, Gulmarg offers a breathtaking experience for adventure seekers
-                                and nature lovers alike. Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                                Voluptatum maiores totam, quaerat cumque explicabo nisi provident necessitatibus,
-                                ratione quo unde ab excepturi possimus vel cupiditate quae dolorum tempora molestiae
-                                laborum?
+                                and nature lovers alike
                             </p>
                             <a class="card-link text-primary" href="blogs/gulmarg-in-winters.php">
                                 Continue Reading...
@@ -456,19 +453,17 @@ include ("app/controllers/lead_form.php");
                         <div class="overflow-hidden">
                             <img class="ratio ratio-16x9 object-fit-cover card-img-top" style="aspect-ratio:16/9;"
                                 alt="Blog image"
-                                src="https://images.unsplash.com/photo-1527668752968-14dc70a27c95?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3dpdHplcmxhbmR8ZW58MHx8MHx8fDA%3D" />
+                                src="assets/img/tulip-garden.webp" />
                         </div>
                         <div class="card-body p-4">
                             <h6 class="card-subtitles text-muted fw-bold">
-                                Khalid zahoor
+                                Towseem Hassan
                             </h6>
                             <h5 class="card-title mb-2 text-truncate fw-bold">
-                                Life is a beautiful journey not a destination
+                            Exploring the Beauty of a Tulip Garden: Nature’s Vibrant Symphony
                             </h5>
                             <p class="card-text line-clamp-3">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, pariatur? A id, officiis
-                                sapiente quisquam eum perspiciatis rem molestiae nisi at odio harum nesciunt ipsam
-                                possimus perferendis ex accusamus ad! dsfkjds fkjdfkldjfk ld
+                            Tulips, with their brilliant colors and elegant petals, are one of the most loved flowers in the world. They symbolize renewal and beauty, making them a perfect addition to gardens that celebrate the vibrancy of spring. Whether you're a gardening enthusiast or just appreciate nature's wonders, visiting or cultivating a tulip garden is an experience that inspires awe.
                             </p>
                             <a class="card-link text-primary" href="blogs/gulmarg-in-winters.php">
                                 Continue Reading...
