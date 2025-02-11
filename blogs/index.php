@@ -110,7 +110,7 @@ include ("../app/controllers/lead_form.php");
                         <p class="blog-description">
                             Gulmarg, nestled in the Pir Panjal range of Jammu and Kashmir, transforms into a mesmerizing winter wonderland as the snow blankets its landscapes. Known as India's premier ski destination, Gulmarg offers a breathtaking experience for adventure seekers and nature lovers alike....
                         </p>
-                        <a href="gulmarg-in-winters.php" class="read-more">Read more &rsaquo;</a>
+                        <a href="gulmarg-in-winters" class="read-more">Read more &rsaquo;</a>
                     </div>
 
 
@@ -134,7 +134,7 @@ include ("../app/controllers/lead_form.php");
                         <p class="blog-description">
                             The Kashmir markhor ( Capra falconeri ), a majestic wild goat species, is native to the mountainous regions of Kashmir and northern Pakistan. Recognizable by its spiraled horns and rugged appearance, it inhabits steep, rocky terrains of the Himalayas and Hindu Kush ranges. The species is classified as Near Threatened on the IUCN Red List, with populations fragmented due to habitat loss, poaching, and competition with livestock....
                         </p>
-                        <a href="markhor-in-kashmir.php" class="read-more">Read more &rsaquo;</a>
+                        <a href="markhor-in-kashmir" class="read-more">Read more &rsaquo;</a>
                     </div>
 
 

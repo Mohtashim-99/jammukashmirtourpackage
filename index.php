@@ -416,7 +416,7 @@ include ("app/controllers/lead_form.php");
                                 premier ski destination, Gulmarg offers a breathtaking experience for adventure seekers
                                 and nature lovers alike
                             </p>
-                            <a class="card-link text-primary" href="blogs/gulmarg-in-winters.php">
+                            <a class="card-link text-primary" href="blogs/gulmarg-in-winters">
                                 Continue Reading...
                             </a>
                         </div>
@@ -442,7 +442,7 @@ include ("app/controllers/lead_form.php");
                                 ranges. The species is classified as Near Threatened on the IUCN Red List, with
                                 populations fragmented due to habitat loss, poaching, and competition with livestock.
                             </p>
-                            <a class="card-link text-primary" href="blogs/markhor-in-kashmir.php">
+                            <a class="card-link text-primary" href="blogs/markhor-in-kashmir">
                                 Continue Reading...
                             </a>
                         </div>
@@ -465,7 +465,7 @@ include ("app/controllers/lead_form.php");
                             <p class="card-text line-clamp-3">
                             Tulips, with their brilliant colors and elegant petals, are one of the most loved flowers in the world. They symbolize renewal and beauty, making them a perfect addition to gardens that celebrate the vibrancy of spring. Whether you're a gardening enthusiast or just appreciate nature's wonders, visiting or cultivating a tulip garden is an experience that inspires awe.
                             </p>
-                            <a class="card-link text-primary" href="blogs/tulip-garden.php">
+                            <a class="card-link text-primary" href="blogs/tulip-garden">
                                 Continue Reading...
                             </a>
                         </div>
