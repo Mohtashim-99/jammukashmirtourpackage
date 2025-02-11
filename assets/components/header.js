@@ -15,11 +15,11 @@ const navbarHTML = `<nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-
                         <div class="collapse navbar-collapse" id="navbarCollapse">
                             <div class="navbar-nav ms-auto py-0">
                                 <a href="/" class="nav-item nav-link">Home</a>
-                                <a href="/destination.php" class="nav-item nav-link">Destinations</a>
+                                <a href="/destination" class="nav-item nav-link">Destinations</a>
                                 <a href="/packages/" class="nav-item nav-link">Tour packages</a>
                                 <a href="/blogs/" class="nav-item nav-link">Blogs</a>
-                                <a href="/about.php" class="nav-item nav-link">About</a>
-                                <a href="/contact.php" class="nav-item nav-link">Contact</a>
+                                <a href="/about" class="nav-item nav-link">About</a>
+                                <a href="/contact" class="nav-item nav-link">Contact</a>
                             </div>
                             <a href=""
                                 class="btn btn-primary rounded-pill py-2 px-4 header-btn"  data-bs-toggle="modal" data-bs-target="#travelFormModal">Get Quote</a>

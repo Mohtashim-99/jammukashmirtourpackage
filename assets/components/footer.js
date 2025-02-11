@@ -3,10 +3,10 @@ const footerHTML = `<div class="container-fluid bg-dark text-light footer pt-5 m
                 <div class="row g-5">
                     <div class="col-lg-4 col-md-6">
                         <h4 class="text-white mb-3">Company</h4>
-                        <a class="btn btn-link" href="/about.php">About Us</a> <a
-                            class="btn btn-link" href="/contact.php">Contact Us</a> <a
-                            class="btn btn-link" href="/privacy-policy.php">Privacy Policy</a>
-                        <a class="btn btn-link" href="/terms-and-conditions.php">Terms &amp;
+                        <a class="btn btn-link" href="/about">About Us</a> <a
+                            class="btn btn-link" href="/contact">Contact Us</a> <a
+                            class="btn btn-link" href="/privacy-policy">Privacy Policy</a>
+                        <a class="btn btn-link" href="/terms-and-conditions">Terms &amp;
                             Condition</a>
                     </div>
                     <div class="col-lg-4 col-md-6">
