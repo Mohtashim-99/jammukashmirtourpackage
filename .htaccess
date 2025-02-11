@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Remove .php from URLs
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^/]+)$ $1.php [L]
+
+RewriteCond %{THE_REQUEST} \.php
+RewriteRule ^(.*)\.php$ /$1 [R=301,L]
