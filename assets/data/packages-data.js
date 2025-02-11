@@ -3,7 +3,7 @@ export const packagesData = {
       {
         "package_id": "101",
         "package_name": "Glimpses of Kashmir Valley",
-        "page_name": "3-nights-4-days-srinagar-package.php",
+        "page_name": "3-nights-4-days-srinagar-package",
         "original_price": "13199",
         "current_price": "10999.00",
         "off": "16.67",
@@ -82,7 +82,7 @@ export const packagesData = {
       {
         "package_id": "102",
         "package_name": "Beautiful Kashmir in Winters",
-        "page_name": "kashmir-3-nights-itinerary.php",
+        "page_name": "kashmir-3-nights-itinerary",
         "original_price": "16799",
         "current_price": "13999.00",
         "off": "16.67",
