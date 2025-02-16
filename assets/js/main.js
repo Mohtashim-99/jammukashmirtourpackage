@@ -189,7 +189,6 @@ document.addEventListener("DOMContentLoaded", function () {
     window.addEventListener("scroll", function () {
         if (window.scrollY > scrollThreshold) {
             userEngaged = true;
-            console.log(scrollY)
         }
     });
 
