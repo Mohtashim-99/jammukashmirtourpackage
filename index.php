@@ -95,7 +95,7 @@ include ("app/controllers/lead_form.php");
                     <p>There was an error while submitting the form. Please try again.</p>
                 </div>
                 <div class="modal-footer justify-content-center">
-                    <button type="button" class="btn btn-danger rounded-3" data-bs-dismiss="modal">Close</button>
+                    <button type="button" class="btn btpy-5dn-danger rounded-3" data-bs-dismiss="modal">Close</button>
                 </div>
             </div>
         </div>
@@ -209,7 +209,7 @@ include ("app/controllers/lead_form.php");
             </div>
         </div>
     </section>
-    <section class="container-xxl py-5">
+    <section class="container-xxl py-5 px-0">
         <div class="container">
             <div class="text-center">
                 <h6 class="section-title bg-white text-center text-primary px-3">
@@ -340,7 +340,7 @@ include ("app/controllers/lead_form.php");
         </div>
     </div>
 
-    <section class="container-xxl py-5">
+    <section class="container-xxl py-5 px-0">
         <div class="container">
             <div class="text-left">
                 <h4 class="mb-5 fw-semibold">Winter tour package</h4>
@@ -348,7 +348,7 @@ include ("app/controllers/lead_form.php");
             <div class="row g-4 justify-content-center winter-tour-package-div"></div>
         </div>
     </section>
-    <section class="container-xxl py-5">
+    <section class="container-xxl py-5 px-0">
         <div class="container">
             <div class="text-left">
                 <h4 class="mb-5 fw-semibold">Honeymoon Tour Packages</h4>
@@ -356,7 +356,7 @@ include ("app/controllers/lead_form.php");
             <div class="row g-4 justify-content-center Honeymoon-tour-package-div"></div>
         </div>
     </section>
-    <section class="container-xxl py-5">
+    <section class="container-xxl py-5 px-0">
         <div class="container">
             <div class="text-left">
                 <h4 class="mb-5 fw-semibold">Budget Tour Packages</h4>
@@ -364,7 +364,7 @@ include ("app/controllers/lead_form.php");
             <div class="row g-4 justify-content-center budget-tour-package-div"></div>
         </div>
     </section>
-    <section class="container-xxl py-5">
+    <section class="container-xxl py-5 px-0">
         <div class="container">
             <div class="text-left">
                 <h4 class="mb-5 fw-semibold">Group Tour Packages</h4>
@@ -372,7 +372,7 @@ include ("app/controllers/lead_form.php");
             <div class="row g-4 justify-content-center group-tour-package-div"></div>
         </div>
     </section>
-    <section class="container-xxl py-5">
+    <section class="container-xxl py-5 px-0">
         <div class="container">
             <div class="text-left">
                 <h4 class="mb-5 fw-semibold">Kashmir Summer Tour Packages</h4>
@@ -380,7 +380,7 @@ include ("app/controllers/lead_form.php");
             <div class="row g-4 justify-content-center Kashmir-summer-tour-package-div"></div>
         </div>
     </section>
-    <section class="container-xxl py-5">
+    <section class="container-xxl py-5 px-0">
         <div class="container">
             <div class="text-left">
                 <h4 class="mb-5 fw-semibold">Ladakh Tour Packages</h4>
@@ -388,7 +388,7 @@ include ("app/controllers/lead_form.php");
             <div class="row g-4 justify-content-center ladakh-tour-package-div"></div>
         </div>
     </section>
-    <section class="container-xxl py-5">
+    <section class="container-xxl py-5 px-0">
         <div class="container">
             <div class="text-center ">
                 <h6 class="section-title bg-white text-center text-primary px-3">
@@ -475,7 +475,7 @@ include ("app/controllers/lead_form.php");
 
         </div>
     </section>
-    <section class="container-xxl py-5">
+    <section class="container-xxl py-5 px-0">
         <div class="container">
             <div class="text-center mb-5">
                 <h6 class="section-title bg-white text-center text-primary px-3">
