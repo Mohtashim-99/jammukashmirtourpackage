@@ -167,6 +167,10 @@ include ("../app/controllers/lead_form.php");
                             href="https://www.facebook.com/mohtashim.raina/" target="_blank">
                                 <i class="fab fa-facebook-f fw-normal"></i>
                             </a> 
+                            <a class="btn btn-sm btn-outline-dark btn-sm-square rounded-circle me-2"
+                            href="https://in.pinterest.com/mohtashim_99/" target="_blank">
+                                <i class="fab fa-pinterest fw-normal"></i>
+                            </a> 
                         </div>
                     </div>
                 </div>
