@@ -1,4 +1,11 @@
 let logoA= document.querySelector('.logo-a');
+if(screen.width<="991"){
+    logoA.innerHTML='<img src="/assets/img/jammu-kashmir-tour-package-logo.png" alt="Logo">';
+}
+else{
+    logoA.innerHTML='<img src="/assets/img/jammu-kashmir-tour-package-logo-light.png" alt="Logo">';
+    
+}
 window.addEventListener('scroll', function () { 
     var navbar = document.querySelector('.navbar');
     if (window.scrollY > 45) {
@@ -21,9 +28,7 @@ window.addEventListener('scroll', function () {
     }
     
 });
-if(screen.width<="991"){
-    logoA.innerHTML='<img src="/assets/img/jammu-kashmir-tour-package-logo.png" alt="Logo">';
-}
+
 
 
 
