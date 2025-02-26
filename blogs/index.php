@@ -113,7 +113,7 @@ include ("../app/controllers/lead_form.php");
                             destination, Gulmarg offers a breathtaking experience for adventure seekers and nature
                             lovers alike....
                         </p>
-                        <a href="gulmarg-in-winters" class="read-more">Read more &rsaquo;</a>
+                        <a href="gulmarg-in-winters.php" class="read-more">Read more &rsaquo;</a>
                     </div>
 
 
@@ -143,7 +143,7 @@ include ("../app/controllers/lead_form.php");
                                 ranges. The species is classified as Near Threatened on the IUCN Red List, with
                                 populations fragmented due to habitat loss, poaching, and competition with livestock....
                             </p>
-                            <a href="markhor-in-kashmir" class="read-more">Read more &rsaquo;</a>
+                            <a href="markhor-in-kashmir.php" class="read-more">Read more &rsaquo;</a>
                         </div>
 
 
